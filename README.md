@@ -32,24 +32,13 @@
 
 ## 🧠 About Me
 
-```python
-class HarshRaut:
-    def __init__(self):
-        self.name       = "Harsh Raut"
-        self.role       = ["Backend Developer", "AIML Engineer"]
-        self.location   = "India 🇮🇳"
-        self.languages  = ["Python", "JavaScript", "Java", "C"]
-        self.currently  = "Building Agentic AI Systems 🤖"
-        self.learning   = ["Generative AI", "LLM Agents", "LangGraph"]
-        self.interests  = ["RAG Systems", "LangChain", "Node.js", "REST APIs"]
-        self.email      = "harshraut9945@gmail.com"
+Hi, I’m Harsh Raut, a Computer Science and Design Engineering student passionate about building scalable backend systems and exploring the world of Artificial Intelligence.
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome together 🚀")
+I enjoy turning ideas into real-world applications using code, and I’m currently focused on building skills in Backend Development, AI/ML systems, and Agentic AI workflows.
 
-me = HarshRaut()
-me.say_hi()
-```
+I’m especially interested in working with modern AI tools and frameworks like LangChain, LangGraph, and RAG-based systems, and I’m continuously improving my ability to design intelligent, production-ready applications.
+
+Outside of development, I like learning about system design, APIs, and how large-scale applications work behind the scenes.
 
 ---
 
