@@ -32,7 +32,7 @@
 
 ## 🧠 About Me
 
-Hi, I’m Harsh Raut, a Computer Science and Design Engineering student passionate about building scalable backend systems and exploring the world of Artificial Intelligence.
+Hi, I’m Harsh Raut, a Computer Science  student passionate about building scalable backend systems and exploring the world of Artificial Intelligence.
 
 I enjoy turning ideas into real-world applications using code, and I’m currently focused on building skills in Backend Development, AI/ML systems, and Agentic AI workflows.
 
