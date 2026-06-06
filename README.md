@@ -111,25 +111,7 @@ Outside of development, I like learning about system design, APIs, and how large
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshraut9945https&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshraut9945https&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="180" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshraut9945https&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%"/>
-
-<br/><br/>
-
-<!-- GitHub Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=harshraut9945https&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
-
-</div>
-
----
+\
 
 ## 🌟 Featured Project
 
