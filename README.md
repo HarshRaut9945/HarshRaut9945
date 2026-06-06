@@ -125,15 +125,7 @@ Outside of development, I like learning about system design, APIs, and how large
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshraut9945https&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
